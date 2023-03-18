@@ -1,7 +1,7 @@
 # Importing libraries
 import streamlit as st
 import pandas as pd
-import pickle
+import pickle as pickle
 from datetime import datetime
 
 # reading data
